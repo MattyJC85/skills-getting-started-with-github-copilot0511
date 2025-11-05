@@ -142,3 +142,11 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+  color: #333; /* Change color as needed */
+  font-size: 14px; /* Adjust font size */
+}
